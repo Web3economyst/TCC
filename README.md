@@ -5,6 +5,7 @@ Códigos do Trabalho de Conclusão de Curso de **Gabriel Follmer de Mattos** (Ci
 O trabalho mede quanto o Ibovespa e o dólar se movem quando muda a probabilidade de vitória do candidato do PT nas eleições presidenciais de 2018, 2022 e 2026. A probabilidade vem dos mercados de previsão (Betfair em 2018 e 2022, Polymarket em 2026) e, como comparação, de um agregador de pesquisas eleitorais. Tudo é medido no fechamento de cada pregão da B3.
 
 Este guia explica como rodar tudo, onde está cada tabela e figura do texto e o que fazer se algo der errado. Não é preciso saber R a fundo: basta seguir os passos.
+Pasta dados: https://drive.google.com/file/d/1LuM6YBeLi3-m3PMBAbpx9fnwC-SV8jm1/view?usp=sharing (O código puxa os dados também, mas é possível rodar mais rápido ao baixar os dados direto do drive)
 
 ---
 
